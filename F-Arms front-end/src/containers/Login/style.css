@@ -1,0 +1,36 @@
+.LoginContainer{
+    align-items: center;
+    background-color: aliceblue;
+    min-width: 300px;
+    width: 20%;
+    height: auto;
+    margin: 0 auto;
+    padding: 30px;
+    box-shadow: 0 0 5px 0px #cecece;
+    border-radius: 20px;
+    margin-top: 0%;
+}
+
+.background-image{
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/03/Free-nature-background-wallpaper.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.WelcomeText{
+    background-color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px 0;
+}
+.LoginWrapper{
+    background-color: aliceblue;
+    margin: 30px 0;
+}
+
+
+
+*:focus{
+    outline: none;
+}
